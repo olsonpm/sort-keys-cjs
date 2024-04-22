@@ -1,1 +1,1 @@
-module.exports = require('fix-esm').require('sort-keys')
+module.exports = require('fix-esm').require('sort-keys').default
